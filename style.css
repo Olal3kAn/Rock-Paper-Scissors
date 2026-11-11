@@ -1,0 +1,25 @@
+body{
+    background: #000;
+    font-family: 'Sora';
+}
+
+.RPS{
+    p{
+        color: #fff;
+    }
+    .btn{
+        display: flex;
+        gap: 30px;
+        button{
+        border: none;
+        font-family: 'Sora';
+        padding: 0.5rem;
+        background: #0f2c16;
+        color: #fff;
+        border-radius: 5px;
+        font-size: 50px;
+        cursor: pointer;
+
+    }
+    }
+}
